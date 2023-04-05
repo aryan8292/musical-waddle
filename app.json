@@ -7,7 +7,7 @@
    "FiletoLinkBot",
    "For ScreenShot Bot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/aryan8292/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
@@ -28,7 +28,7 @@
   },
    "PUBLIC_URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": ""
+      "value": "eco"
   }
  }
 }
